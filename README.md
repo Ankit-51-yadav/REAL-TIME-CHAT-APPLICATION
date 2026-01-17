@@ -53,5 +53,22 @@ When the application loads, a random username is generated. The client connects 
 
 ## OUTPUT
 
+HOME (LIGHT MODE)
+<img width="1502" height="882" alt="Image" src="https://github.com/user-attachments/assets/7acbdb4b-a2c3-43f5-af66-a630a184a9e5" />
+
+DARK MODE
+<img width="1501" height="876" alt="Image" src="https://github.com/user-attachments/assets/82bf149f-7230-4253-98cf-976157f3cf58" />
+
+CONTACT SECTION
+<img width="1442" height="826" alt="Image" src="https://github.com/user-attachments/assets/ff45d214-1f65-4595-a327-750d78adb288" />
+
+EDIT MESSAGE
+<img width="1453" height="842" alt="Image" src="https://github.com/user-attachments/assets/db1c2edd-35d1-4979-96dd-a2af8f9b1e7b" />
+
+CLEAR CHAT
+<img width="1692" height="895" alt="Image" src="https://github.com/user-attachments/assets/d8c911cd-7852-42fa-a83b-de1d22015851" />
+
+INITIAL SCREEN
+<img width="1457" height="845" alt="Image" src="https://github.com/user-attachments/assets/5aa20ce0-f8ea-45f9-bec5-e157d2f3561f" />
 
 
